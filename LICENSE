@@ -1,21 +1,3 @@
-# Music-X
-
-<br />
-<br />
-<div align="center">
-
-![Project-X logo](resources/logo.jpg)
-
-
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/st0n-apt/project-x/blob/master/LICENSE)
-
-<div align="left">
-
-## License
-
-Project-x is provided under the [MIT License](https://github.com/st0n-apt/project-x/blob/master/LICENSE).
-
-```text
 MIT License
 
 Copyright (c) 2020 st0n-apt
@@ -37,4 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
